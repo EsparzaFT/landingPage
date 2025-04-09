@@ -101,3 +101,28 @@ a {
     font-size: 18px;
     color: #a5a7ab;
 }
+
+/* reviews */
+.reviews{
+    background-color: #e5e7eb;
+}
+
+.testimonial{
+    max-width: 800px;
+    margin: auto;
+    padding: 60px 0;
+}
+
+.testimonial_customer{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    margin: 0;
+}
+
+.autor{
+    text-align: right;
+    font-weight: bold;
+    margin: 0;
+    padding: 0 40px 0 20px;
+}
