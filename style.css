@@ -27,6 +27,7 @@ a {
 .logo {
     font-size: 24px;
     color: #f9faf8;
+    font-weight: bold;
 }
 
 .nav {
@@ -140,7 +141,7 @@ a {
     justify-content: space-around;
     padding: 50px 0;
     border-radius: 10px;
-    margin: 50px 0;
+    margin: 80px 0;
 }
 
 .margin_zero{
@@ -160,4 +161,15 @@ a {
 .signup_text{
     font-size: 18px;
     color: #d3d5da;
+}
+
+/* footer */
+.footer{
+    background-color: #1f2937;
+}
+
+.copyright{
+    text-align: center;
+    color: #e5e7eb;
+    padding: 50px;
 }
