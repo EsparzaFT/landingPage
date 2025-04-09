@@ -70,6 +70,7 @@ a {
 .information {
     max-width: 800px;
     margin: auto;
+    padding-bottom: 60px;
 }
 
 .information_title, .paragraph{
@@ -125,4 +126,38 @@ a {
     font-weight: bold;
     margin: 0;
     padding: 0 40px 0 20px;
+}
+
+/* Sign up */
+.signup{
+    max-width: 800px;
+    margin: auto;
+}
+
+.signup_box{
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0;
+    border-radius: 10px;
+    margin: 50px 0;
+}
+
+.margin_zero{
+    margin: 0;
+}
+
+.signup_button{
+    background-color: #3882f6;
+    border-radius: 5px;
+    border: 2px solid #f9faf8;
+    color: #f9faf8;
+    font-size: 18px;
+    font-weight: 700;
+    padding: 10px 30px;
+}
+
+.signup_text{
+    font-size: 18px;
+    color: #d3d5da;
 }
